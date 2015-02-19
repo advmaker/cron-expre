@@ -1,2 +1,1 @@
-# cron-expre
-PHP Cron Expression Generator
+# PHP Cron Expression Generator
